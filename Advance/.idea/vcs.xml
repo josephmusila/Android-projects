@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/C#" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CPP" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CPP/Bank Management" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CPP/FbQuiz/Question1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CPP/rem" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JAVASCRIPT/Text Editor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PYTHON/Excell Analysis" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PYTHON/Parts Retail" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PYTHON/PortFolio" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PYTHON/achine Learning" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/React/clothes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/React/gallery" vcs="Git" />
+  </component>
+</project>
